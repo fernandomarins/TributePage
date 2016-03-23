@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/fernandomarins/pen/NNjaWz.
+This is the first project for getting FreeCodeCamp Front End Certification.
 
- This is the first project from FreeCodeCamp.
+It was required to create a Tribute Page and I chose Sia randomly.
