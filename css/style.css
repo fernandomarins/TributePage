@@ -1,0 +1,17 @@
+body {
+  margin: 50px;
+  background-color: gray;
+}
+
+.gray-div {
+  background-color: white;
+}
+
+.top-padding {
+  padding-top: 20px;
+}
+
+.center-block {
+   display: table;
+   margin: 0 auto;
+}
